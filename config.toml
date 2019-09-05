@@ -1,4 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Joseph Townshend"
-theme = "blank"
+
+[params]
+  homeText = "You just made a Hugo blog from scratch."
