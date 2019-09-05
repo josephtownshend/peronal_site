@@ -2,5 +2,29 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Joseph Townshend"
 
-[params]
-  homeText = "You just made a Hugo blog from scratch."
+[permalinks]
+  blog = "/:filename/"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    pre = "edit"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    name = "Tags"
+    pre = "tag"
+    url = "/tags/"
+    weight = 3
+
+    [params]
+      dateFormat = "Jan 2, 2006"
+      homeText = "Is an early career software developer"
+
+[taxonomies]
+  tag = "tags"

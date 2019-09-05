@@ -1,0 +1,27 @@
+---
+title: "Learning Through the Lens of Mentorship"
+date: 2019-09-05T14:26:35+01:00
+tags: ["makers", "mentor", "software"]
+draft: false
+---
+During week 6 of Makers Academy, students have the opportunity to sign up to become a mentor for new students working on the remote 4 week pre-course. The rough idea is to help guide the mentees through their first few nerve-racking weeks, impart some personal learning, maybe work on a kata together and just generally answer questions about the looming 12 week bootcamp.
+
+The pre-course is different for everyone, some breeze through, others find it deeply troublesome - though it is generally accepted to be fairly challenging. My personal experience flitted from one extreme to another, feeling like a genius one moment to being overwhelmed with self doubt the next. Naturally this made for quite an unsettling month, so when the opportunity arose to work with a new and potentially nervous student I jumped at it. For me this was a chance to give someone all the reassurance and confidence I wish I’d had during that time. So I wrote my tagline, added it to the google doc and waited…
+
+> *‘If you’ve had a shaky start to makers, let me help you through the beginnings of your coding journey.’*
+
+The following week I was lucky enough to have two mentees sign up next to my name, and within minutes they were firing questions at me - ‘what on earth is Fibonacci?’, ‘is my git broken?’, ‘help, all my tests are failing!’. These questions and exclamations may seem a little trivial, but *pre-course Joseph* definitely found himself in some of these situations, and when he did it was panic inducing.
+
+However this time around I didn’t feel panicked, I felt cool and logical. I asked questions back, contextualised the issue, researched the method or command they were struggling with and replied with considered answers. Not all of these answers were correct of course, but my process was different, something in me had shifted.
+
+It’s now been a little over two weeks of mentoring and via a combination of my two mentees I have worked back through a good chunk of the pre-course. And whilst the aim of this setup is to help your mentees with their learning - and I really hope I have - I think this process has also really shone a light on my own understanding.
+
+One of the few things we are asked to do at Makers is to document our learning throughout the course. This documentation could be in the form of a blog post such as this, a screen recording showing your process whilst working on a kata, or maybe some refined notes from a deep-dive on a particular subject - anything really. All of these methods do a good job of tracking your learning and when used in combination they can help give a broad overview of how far you’ve come - but is there a better medium to quantify something as abstract as learning? It turns out looking at learning through the lens of mentorship is a particularly useful tool for the job.
+
+Why is this? Well first of all, I believe my tag line attracted a certain type of mentee, I wrote what *pre-course Joseph* would have wanted from a mentor - so in a sense I vetted someone similar to myself - apprehensive, nervous and feeling a fair bit of self-doubt. For the last 2 weeks I’ve been able to work with them through a period of time that I have also experienced, and although we are very different people, I can see a lot of similarities between their behaviours and my own past behaviours. I realised my two mentees were somewhat of a reflection of *pre-course Joseph*.
+
+In essence this is the thing that makes mentoring so powerful in understanding your own learning - you come face to face with it. It’s the distance between your mentee and yourself - and although you can’t literally measure this and use it as evidence in your ‘learning portfolio’, you can feel it. This tangibility is what makes it so effective, it might not be useful to show a coach or a potential employer, but what it does do is show you, and in learning to code often you are the hardest person to convince of your own progression.
+
+The responses I had to my mentee’s questions may not have always been correct or indeed even useful - but I didn’t panic, I was rational. That switch in mindset from fixed to growth is crucial in software development or indeed when learning anything new and it’s one of the things that Makers teaches you the best - but it’s not always easy to see that. Day to day I still find myself getting panicked or overwhelmed by the task in hand, and often I struggle to see past that. But I can safely say that I am now convinced of my progression and with that I know in another couple of months my present struggles will seem just as insignificant as those of my mentees will soon seem to them.
+
+So if you are coming up to the point in Makers when mentoring becomes available or perhaps you have the opportunity to help a friend whose a little less experienced - I’d urge you to put your name down and lend a hand. You may well learn a great deal about yourself in the process.
